@@ -1,10 +1,6 @@
 # daisyUI-react-doc
-Cómo instalar instalar tailwindcss y daisy UI en React
+Una guía para instalar tailwindcss y daisy UI en React; y no morir en el intento :)
 
-> [!NOTE] Overview
-> Una guía para instalar tailwindcss y daisy UI en React; y no morir en el intento :)
->
-> 
 
 
 ## Paso 1
